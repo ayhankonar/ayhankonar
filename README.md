@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**ayhankonar/ayhankonar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ayhan and I am a software engineer with a background in mechanical engineering and graphic design. My programming interests are in full-stack and back-end development using Node.js, React, and NoSQL databases. 
 
-Here are some ideas to get you started:
+About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning React Native & polishing my mobile-first dev skills.
+- Passionate about language-learning, education, and using tech to improve people's lives.
+- Located in Orlando, USA but have lived in Germany and Japan. 
+
+Contact Info:
+
+- **Email**: ayhan.sclafani.konar@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/ayhansk
+- **Website/Portfolio**: Coming Soon
