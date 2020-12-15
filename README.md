@@ -1,10 +1,10 @@
 ### Hi 👋
 
-My name is Ayhan and I am a software engineer with a background in mechanical engineering and graphic design. My programming interests are in full-stack and back-end development using Node.js, React, and NoSQL databases. 
+My name is Ayhan and I am a software engineer with a Bachelor of Science degree in Mechanical Engineering and 5 years graphic design experience. My programming interests are in full-stack and back-end development using Node.js, React, and NoSQL databases. 
 
 About Me:
 
-- Learning React Native & polishing my mobile-first dev skills.
+- Currently learning React Native & polishing my mobile-first dev skills.
 - Passionate about language-learning, education, and using tech to improve people's lives.
 - Located in Orlando, USA but have lived in Germany and Japan. 
 
