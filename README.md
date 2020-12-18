@@ -7,6 +7,7 @@ About Me:
 - Currently learning React Native & polishing my mobile-first dev skills.
 - Passionate about language-learning, education, and using tech to improve people's lives.
 - Located in Orlando, USA but have lived in Germany and Japan. 
+- Fun facts: I hiked Mt. Fuji. I also like to read.
 
 Contact Info:
 
